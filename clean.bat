@@ -1,0 +1,1 @@
+del /S C:\Users\maxim\Downloads\DATA\export\*
